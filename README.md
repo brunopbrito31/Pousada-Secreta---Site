@@ -2,6 +2,8 @@
 
 Nota: Falta colocar responsividade
 
+Instruções: Recomendo a utilização do plugin do vscode chamado Live-Server para a execução e testes do projeto.
+
 #Algumas imagens do Projeto: 
 
 ![Captura de Tela (103)](https://user-images.githubusercontent.com/73408388/151083607-096fbe13-7672-4811-88db-08dc0d081453.png)
