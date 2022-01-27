@@ -1,8 +1,8 @@
 ﻿# Pousada-Secreta---Site
 
-Nota: Falta colocar responsividade
-
 Instruções: Recomendo a utilização do plugin do vscode chamado Live-Server para a execução e testes do projeto.
+
+Responsividade: Funciona em dispositivos com largura de resolução acima de 300px
 
 #Algumas imagens do Projeto: 
 
